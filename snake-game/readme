@@ -1,0 +1,14 @@
+How to start the snake game:
+
+1. Open your terminal
+2. CD into the snake game folder
+3. Type: python snake.py and press enter
+
+The game will now start to work
+If you die, to restart, either type python snake.py into the terminal again, or just press UP using the directional arrows
+
+To move, use the directional arrows.
+
+Objective:
+
+Eat as many of the PI symbols as possible.
