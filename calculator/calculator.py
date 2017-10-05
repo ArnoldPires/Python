@@ -4,7 +4,6 @@ os.system('clear')
 def help():
     print """Once you execute the calculator command, choose between a running the basic calculator or the scientific one.
     You can choose by either pressing 1 for basic or 2 for scientific!
-
 """
 def basic():
     num1 = input("Type your first number and hit enter: ")
@@ -87,7 +86,6 @@ def scientific():
                 print "The result of your equation '%s' is: %.2f" % (orig_equation, result)
 
 print """Choose a calculator
-
 	1. Basic Calculator
 	2. Scientific Calculator\n
     Type help() if you are confused
